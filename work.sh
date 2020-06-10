@@ -30,7 +30,7 @@ do
     docker pull $source
     printf 'done pull from %s\n' "$destination"
     docker tag $source $destination
-    echo $DOCKER_PASSWORD | docker login --username jonhyhy --password-stdin
+    echo $DOCKER_PASSWORD | docker login --username jonyhy --password-stdin
     docker push $destination
     printf 'done push to %s\n' "$destination"
 done <"$file"
