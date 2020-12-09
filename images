@@ -1,2 +1,2 @@
 quay.io/kiali/kiali:v1.15>jonyhy/mirror:kiali-v1.15
-ghcr.io/openfaas/faas-netes:0.12.9>jonyhy/mirror:fass-netes-0.12.9
+ghcr.io/openfaas/faas-netes:0.12.9>jonyhy/mirror:faas-netes-0.12.9
