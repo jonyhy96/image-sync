@@ -3,3 +3,4 @@ ghcr.io/openfaas/faas-netes:0.12.9>jonyhy/mirror:faas-netes-0.12.9
 k8s.gcr.io/defaultbackend-amd64:1.5>jonyhy/mirror:defaultbackend-amd64-1.5
 gcr.io/jenkinsxio/nginx-ingress-controller:0.30.0>jonyhy/mirror:jenkinsxio-nginx-ingress-controller-0.30.0
 kubeovn/kube-ovn:v1.6.0>jonyhy/mirror:kubeovn-kube-ovn-v1.6.0
+gcr.io/distroless/static:nonroot>jonyhy/mirror:distroless-static-noroot
