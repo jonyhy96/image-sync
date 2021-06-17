@@ -8,3 +8,4 @@ gcr.io/kubebuilder/kube-rbac-proxy:v0.5.0>jonyhy/mirror:kubebuilder-kube-rbac-pr
 us.gcr.io/k8s-artifacts-prod/autoscaling/vpa-admission-controller:0.8.0>jonyhy/mirror:vpa-admission-controller-0.8.0
 us.gcr.io/k8s-artifacts-prod/autoscaling/vpa-recommender:0.8.0>jonyhy/mirror:vpa-recommender-0.8.0
 us.gcr.io/k8s-artifacts-prod/autoscaling/vpa-updater:0.8.0>jonyhy/mirror:vpa-updater-0.8.0
+quay.io/fairwinds/goldilocks:master>jonyhy/mirror:goldilocks
