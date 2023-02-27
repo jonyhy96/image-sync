@@ -9,3 +9,4 @@ us.gcr.io/k8s-artifacts-prod/autoscaling/vpa-admission-controller:0.8.0>jonyhy/m
 us.gcr.io/k8s-artifacts-prod/autoscaling/vpa-recommender:0.8.0>jonyhy/mirror:vpa-recommender-0.8.0
 us.gcr.io/k8s-artifacts-prod/autoscaling/vpa-updater:0.8.0>jonyhy/mirror:vpa-updater-0.8.0
 quay.io/fairwinds/goldilocks:master>jonyhy/mirror:goldilocks
+registry.k8s.io/ingress-nginx/controller:v1.6.4>jonyhy/mirror:ingress-nginx
