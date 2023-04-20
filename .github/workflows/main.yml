@@ -29,4 +29,4 @@ jobs:
           context: .
           platforms: linux/amd64,linux/arm64
           push: true
-          tags: jonyhy/mirror/addon-resize:1.8.11
+          tags: jonyhy/addon-resize:1.8.11
