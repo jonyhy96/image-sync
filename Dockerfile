@@ -1,0 +1,1 @@
+FROM gcr.io/k8s-staging-autoscaling/addon-resizer-arm64:1.8.11

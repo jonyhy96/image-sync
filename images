@@ -1,2 +1,0 @@
-registry.k8s.io/ingress-nginx/controller:v1.6.4>jonyhy/mirror:ingress-nginx
-gcr.io/k8s-staging-autoscaling/addon-resizer-arm64:1.8.11>jonyhy/mirror:addon-resizer
